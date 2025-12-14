@@ -1,5 +1,9 @@
 # 📊 GitGrade – AI-Powered GitHub Repository Evaluator
 
+## 🌐 Live Demo
+🔗 **Deployed Application:**  
+https://gitgrade-pqs4ynji9jj9xyidsbnjvz.streamlit.app/
+
 ## 🔍 Problem Statement
 A GitHub repository reflects a developer’s real skills, but many students don’t know
 how their projects look from a **recruiter or mentor’s perspective**.
